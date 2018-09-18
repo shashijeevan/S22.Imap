@@ -166,3 +166,4 @@ pip-log.txt
 # Mac crap
 .DS_Store
 /.vs/S22.Imap/v15/Server/sqlite3
+/.vs/S22.Imap/DesignTimeBuild/.dtbcache
