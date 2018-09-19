@@ -19,6 +19,9 @@
 	<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
 	<GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
 	<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+	<RepositoryUrl>https://github.com/shashijeevan/S22.Imap.git</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>Microsoft; .Net; Framework; Standard; Core; C#; Imap; Mail; Email; Client; Library</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
